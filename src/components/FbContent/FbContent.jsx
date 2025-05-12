@@ -1,4 +1,3 @@
-import React from 'react'
 import style from './FbContent.module.css'
 import { useState } from "react";
 import { FbHeader } from '../FbHeader/FbHeader'
